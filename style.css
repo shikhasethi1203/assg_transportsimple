@@ -51,8 +51,8 @@ html {
   padding: 4px 8px;
   background-color: #0636AA;
   color: #ffffff;
-  border-radius: 4px;
-  font-size: 18px;
+  border-radius: 9px;
+  font: normal normal 600 14px/19px Segoe UI;
 }
 /* 
 .navbar-link:hover,
@@ -84,6 +84,7 @@ html {
 .section-1-button {
   display: flex;
   gap: 20px;
+
 }
 .section-1-get-started {
   padding: 8px 16px;
